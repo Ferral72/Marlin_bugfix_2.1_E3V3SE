@@ -7,7 +7,7 @@
   All code complies with GPLv2 and/or GPLv3
 
 ================================================================================
-
+float CZ_AFTER_HOMING = 10.0f;
 Greetings! Thank you for choosing Marlin 2 as your 3D printer firmware.
 
 To configure Marlin you must edit Configuration.h and Configuration_adv.h
